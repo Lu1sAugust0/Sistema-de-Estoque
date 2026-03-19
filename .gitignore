@@ -1,0 +1,16 @@
+# Node
+frontend/node_modules
+frontend/dist
+frontend/.env
+
+# PHP / Composer
+backend/vendor
+backend/.env
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
